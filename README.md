@@ -17,7 +17,7 @@
 안녕하세요! **사람의 마음과 영혼을 치유하는 공감형 로봇**과 **물리적 행동을 수행하는 인공지능**을 연구하는 조형민입니다.
 
 - 🎓 **Affiliation**: **Handong Global Univ.** (School of CSEE, Combined Bachelor's & Master's Program)
-- 👨‍🏫 **Advisor**: **Prof. WonHyong Lee** (이원형 교수님)
+- 👨‍🏫 **Advisor**: **DR. Lee. WonHyong** (이원형 교수님)
 - 🧪 **Lab**: **[SIRLab](https://sirl.handong.edu/)** (Social and Interactive Robotics Lab)
 - 🔭 **Interests**: **HRI** (Human-Robot Interaction), **Physical AI**, **Lovable Flaws**
 - 🌟 **Vision**: "선한 로봇 기술을 통해 세상을 따듯하게 변화시키는 로봇 공학자"

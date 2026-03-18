@@ -57,8 +57,15 @@
 ### 1️⃣ Moti - 공감 서비스 로봇 (Empathy Service Robot)
 
 <div align="center">
-
+  
+### 🛠️ mk1 (의도적 비완전성, 다중 사용자 엔터테이닝 특화)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HandongSF/hlri-iua-motirobotics)
+
+</div>
+
+<div align="center">
+  
+### 🛠️ mk2 (사용자와 로봇 1대 1 대화 특화)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HGU-Capstone/Empathy-service-motirobot)
 
 </div>

@@ -59,6 +59,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HandongSF/hlri-iua-motirobotics)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HGU-Capstone/Empathy-service-motirobot)
 
 </div>
 

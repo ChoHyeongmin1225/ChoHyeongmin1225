@@ -77,7 +77,7 @@
 #### ✨ Key Features
 - 🗣️ **Emotional Dialogue**: Gemini LLM 기반의 자연스러운 음성 대화 및 자막 출력
 - 👁️ **Vision Intelligence**: MediaPipe 기반 사용자 얼굴 및 제스처 인식
-- 🎭 **Non-verbal Interaction**: 3D 프린팅된 공룡 코스튬과 디스플레이를 통한 풍부한 표정 변화
+- 🎭 **Non-verbal Interaction**: 공룡 코스튬과 디스플레이를 통한 풍부한 표정 변화
 - 🎮 **Entertainment**: OX 퀴즈, 가위바위보, 댄스 모션 등 놀이 기능 제공
 
 #### 🔧 System Architecture

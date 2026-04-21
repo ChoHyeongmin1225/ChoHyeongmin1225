@@ -129,7 +129,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChoHyeongmin1225&show_icons=true&theme=transparent" alt="My GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChoHyeongmin1225&layout=compact&theme=transparent" alt="Top Langs" />
 
 </div>
 

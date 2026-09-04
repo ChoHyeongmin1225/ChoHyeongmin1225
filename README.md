@@ -18,7 +18,7 @@
 
 I design **social robots that form emotional bonds**, and I run **controlled human-subject experiments** to find out what actually drives that bond.
 
-My current thesis: **competence is not what makes a robot likeable.** A robot that guesses wrong and owns its mistake is rated warmer, closer, and more disclosure-inviting than a flawless one — while a robot that simply *cannot proceed* is rated worst by every participant. I call the design strategy **lovable flaws (하찮미)**, and I build the hardware, the dialogue stack, and the study protocol end to end.
+The claim I keep testing: **competence is not what makes a robot likeable.** A robot that guesses wrong and owns its mistake is rated warmer, closer, and more disclosure-inviting than a flawless one — while a robot that simply *cannot proceed* is rated worst by every participant. I call the design strategy **lovable flaws (하찮미)**, and I build the hardware, the dialogue stack, and the study protocol end to end.
 
 Lately that work has moved on-device: getting a 12B vision-language model to reason about a person's face and tone **locally, on the robot**, fast enough that the conversation still feels alive.
 
@@ -48,7 +48,7 @@ Lately that work has moved on-device: getting a 12B vision-language model to rea
 
 ---
 
-## 🧠 HARU — Embodied Social AI &nbsp;<sub>M.S. thesis</sub>
+## 🧠 HARU — Embodied Social AI
 
 [![Repository](https://img.shields.io/badge/HGU--SIRLab%2FHARU--embodied--social--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HGU-SIRLab/HARU-embodied-social-ai)
 ![In Development](https://img.shields.io/badge/Status-In%20Development-F9A825?style=for-the-badge)
@@ -115,15 +115,18 @@ https://github.com/user-attachments/assets/6e6d6663-b9ec-43d4-9311-3b2ba13880fd
 
 ---
 
-## 🦸 Herobot — Physical AI Agent
+## 🦸 Herobot — Physical AI Agent &nbsp;<sub>archived</sub>
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChoHyeongmin1225/Herobotics)
+![Discontinued](https://img.shields.io/badge/Status-Discontinued-6E7681?style=for-the-badge)
 
 > *From language to action: a rescue robot with a value system.*
 
 https://github.com/user-attachments/assets/2e13df92-c2dc-4fd8-ae6c-1fa370db7e67
 
-Herobot connects **LLM reasoning to physical actuation** — natural-language intent becomes control signals, filtered through an explicit heroic persona so the robot decides *whether* to act, not just *how*. Built on Gemini Robotics; its layered action-safety pattern is what Moti v3's motion stack was modelled on.
+An attempt to wire **LLM reasoning directly to physical actuation** — natural-language intent becoming control signals, filtered through an explicit heroic persona so the robot would decide *whether* to act, not just *how*. Built on Gemini Robotics.
+
+**It didn't work out, and I stopped.** The repo stays up as a record. What survived is the idea it forced me to work out: if a language model is allowed to command joints, the safety has to live in the layers *below* it, not in the prompt. That layered action-safety pattern is exactly what Moti v3's motion stack was later built on — so the failure paid for itself.
 
 ---
 
@@ -187,6 +190,8 @@ Moti's dialogue still depends on a cloud endpoint. I'm building a **fully local 
 ---
 
 <div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChoHyeongmin1225&show_icons=true&theme=transparent" alt="GitHub Stats" />
 
 <br><br>
 

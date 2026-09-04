@@ -191,8 +191,6 @@ Moti's dialogue still depends on a cloud endpoint. I'm building a **fully local 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChoHyeongmin1225&show_icons=true&theme=transparent" alt="GitHub Stats" />
-
 <br><br>
 
 ### 📬 Get in touch

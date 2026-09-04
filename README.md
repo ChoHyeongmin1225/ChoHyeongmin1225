@@ -93,13 +93,9 @@ Most social robots wait to be spoken to. HARU watches — facial expression, pos
 
 The platform behind both publications above: a costumed desktop-scale robot combining **display-based expression**, **physical gesture**, and **real-time voice dialogue**, across three generations.
 
-**Costumed** — the form all study participants met
+https://github.com/user-attachments/assets/6e6d6663-b9ec-43d4-9311-3b2ba13880fd
 
-https://github.com/user-attachments/assets/e1f7ba0f-f9fa-48e5-bbf7-74c9774b1a0c
-
-**Bare frame** — 10 Dynamixel joints, display face, pan/tilt head
-
-https://github.com/user-attachments/assets/ec68630c-4e09-40db-a220-b1a09cc685b8
+<sub>**Left** — the costumed form all study participants met. &nbsp;**Right** — the bare mechanism: 10 Dynamixel joints, display face, pan/tilt head.</sub>
 
 | | Focus | Repo |
 |---|---|---|
@@ -191,8 +187,6 @@ Moti's dialogue still depends on a cloud endpoint. I'm building a **fully local 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChoHyeongmin1225&show_icons=true&theme=transparent" alt="GitHub Stats" />
 
 <br><br>
 
